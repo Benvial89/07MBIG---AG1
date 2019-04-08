@@ -60,7 +60,7 @@ var data = [
   ]
 
   var visualization = d3plus.viz()
-    .container("#viz")
+    .container("#viz3")
     .data(data)
     .type("box")
     .id("name")
